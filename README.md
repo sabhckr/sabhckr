@@ -15,7 +15,7 @@ Always building, always learning. 🚀
 ---
 
 ### 🧰 Tools & Skills  
-- **Languages & Scripting:** Bash, Python  
+- **Languages & Scripting:** Bash, Python, Yaml  
 - **Version Control:** Git & GitHub  
 - **Containers:** Docker  
 - **CI/CD:** GitHub Actions  
